@@ -6,7 +6,7 @@
 
 🔭 Working on: Website Automation of one of the biggest Print on Demand businesses in Canada using Playwright
 
-💅 Expertise: Automation tools, Quality Assurance, Continous Integration, Communication
+🧑‍💻 Expertise: Automation tools, Quality Assurance, Continous Integration, Communication
 
 🌱 Learning all about Automation Tools | QA Best Practices | Cloud Computing
 
