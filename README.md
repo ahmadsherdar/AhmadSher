@@ -2,7 +2,7 @@
 
 🏢 I'm currently working at MobileLive.ca (Remote)
 
-⚙️ I use daily: Typescript, Playwright, GitHub, Bamboo, Jira
+⚙️ I use daily: Typescript, Playwright, Cypress, Selenium, GitHub, Bamboo, Jira
 
 🔭 Working on: Website Automation of one of the biggest Print on Demand businesses in Canada using Playwright
 
